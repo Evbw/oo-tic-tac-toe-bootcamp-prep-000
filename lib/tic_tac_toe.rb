@@ -48,7 +48,7 @@ class TicTacToe
     else
      turn
     end
-    
+    display_board
   end
   
   def current_player
